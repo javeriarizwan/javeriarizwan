@@ -50,7 +50,7 @@ OpenAI · LangChain · RAG · n8n · GoHighLevel · Zapier · Make.com
 Selenium · Pandas · NumPy · OpenCV · YOLOv8 · ArcFace · FAISS
 
 **Tools & DevOps**  
-Git · GitHub · Docker · Vercel · Postman · WebSockets
+Git · GitHub · Docker · Vercel · Postman · WebSockets · Resend
 
 ---
 
@@ -63,7 +63,7 @@ Git · GitHub · Docker · Vercel · Postman · WebSockets
 | **LSP Leads** | Lead management platform with Selenium scraping, Node.js APIs, MySQL workflows, search, filtering, and data processing | [Live](https://lspleads.vercel.app/) |
 | **FutCoinSpot** | FIFA coin trading platform with multi-currency payments, affiliate features, and automated fulfilment | [Live](https://futcoinspot.com/) |
 | **n8n Workflows** | Automation workflows for lead capture, CRM pipelines, AI routing, WhatsApp, scheduling, and data synchronization | [GitHub](https://github.com/javeriarizwan/N8N---Workflows) |
-| **Face Recognition Attendance** | Real-time attendance system using YOLOv8, ArcFace, FAISS, OpenCV, and RTSP camera streams | Coming Soon |
+| **Face Recognition Attendance** | Real-time attendance system using YOLOv8, ArcFace, FAISS, OpenCV, and RTSP camera streams |  |
 
 ---
 

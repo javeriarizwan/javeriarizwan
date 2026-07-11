@@ -69,8 +69,7 @@ I build **production-ready web applications and complete MVP systems**, from pol
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=javeriarizwan&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=javeriarizwan&hide_border=true&theme=transparent" />
+
 
 <br />
 

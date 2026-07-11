@@ -61,7 +61,7 @@ I build **production-ready web applications and complete MVP systems**, from pol
 | **LSP Leads** | Lead management platform with Selenium scraping, Node.js APIs, MySQL workflows, search, filtering, and data processing | [Live](https://lspleads.vercel.app/) |
 | **FutCoinSpot** | FIFA coin trading platform with multi-currency payments, affiliate features, and automated fulfilment | [Live](https://futcoinspot.com/) |
 | **n8n Workflows** | Automation workflows for lead capture, CRM pipelines, AI routing, WhatsApp, scheduling, and data synchronization | [GitHub](https://github.com/javeriarizwan/N8N---Workflows) |
-| **Face Recognition Attendance** | Real-time attendance system using YOLOv8, ArcFace, FAISS, OpenCV, and RTSP streams | Coming Soon |
+| **Face Recognition Attendance** | Real-time attendance system using YOLOv8, ArcFace, FAISS, OpenCV, and RTSP streams |  |
 
 ---
 

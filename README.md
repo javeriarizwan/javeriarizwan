@@ -65,17 +65,6 @@ I build **production-ready web applications and complete MVP systems**, from pol
 
 ---
 
-## GitHub Activity
-
-<div align="center">
-
-
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=javeriarizwan&hide_border=true&theme=transparent" />
-
-<br />
-
-
-</div>
 
 ---
 
